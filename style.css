@@ -1,0 +1,16 @@
+footer ul li {
+    list-style-type: none;
+}
+footer ul li a {
+    text-decoration: none;
+}
+footer{
+    background-color: gray;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+footer h3{
+    font-family: poppins;
+    font-style: italic;
+    margin-top: 30px;
+}
